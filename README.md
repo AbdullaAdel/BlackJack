@@ -4,7 +4,7 @@ This is a simple blackjack game that involves 2 players competing to win the gam
 ## run
 
 To run the code, simply type in the terminal the following:  
-`python3 blackjack.py`
+`python3 BlackJack.py`
 
 ## test
 
